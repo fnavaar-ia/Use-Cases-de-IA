@@ -1,8 +1,8 @@
-# Modali / Modale — CRM comercial personalizado
+# Modali / Modale — CRM de grande porte
 
 ## Participação reportada por Felipe
 
-Felipe informa que atuou diretamente no projeto da Modali nas etapas de ideação, estruturação do PRD, execução das especificações, montagem da infraestrutura, seleção do banco de dados, vetorização, integrações e APIs.
+Felipe informa que atuou diretamente no projeto da Modali, um CRM de grande porte, participando da ideação, estruturação do PRD, execução das especificações, montagem da infraestrutura, seleção do banco de dados, vetorização, integrações e APIs.
 
 O case divulgado pela Adapta aparece com o nome “Modale”. A página descreve a substituição de um CRM pago e de controles paralelos em planilhas por um sistema comercial personalizado desenvolvido no Skip.
 
