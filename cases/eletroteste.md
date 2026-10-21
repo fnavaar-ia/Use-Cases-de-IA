@@ -1,12 +1,12 @@
-# Eletroteste — relatórios técnicos com IA
+# Eletroteste — sistema de preparação de relatórios técnicos
 
 ## Participação reportada por Felipe
 
-Felipe informa que atuou diretamente no projeto da Eletroteste, participando da ideação, estruturação do PRD, execução das especificações, montagem da infraestrutura, seleção do banco de dados, vetorização, integrações e APIs.
+Felipe informa que atuou diretamente na criação do sistema de preparação de relatórios técnicos da Eletroteste, participando da ideação, estruturação do PRD, execução das especificações, montagem da infraestrutura, seleção do banco de dados, vetorização, integrações e APIs.
 
 ## Problema e solução descritos no case público
 
-O processo de relatórios técnicos era manual: formulários eram impressos, preenchidos em campo e digitados novamente no escritório. A página da Adapta descreve um sistema no Skip para registrar informações de campo e gerenciar o fluxo dos relatórios, com geração automática de PDF após a conferência.
+O processo de relatórios técnicos era manual: formulários eram impressos, preenchidos em campo e digitados novamente no escritório. A página da Adapta descreve um sistema no Skip para registrar informações de campo e gerenciar a preparação dos relatórios, com geração automática de PDF após a conferência.
 
 ## Resultados divulgados pela Adapta
 
