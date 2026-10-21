@@ -30,8 +30,13 @@ Nos três cases, Felipe relata participação direta em diferentes etapas da sol
 
 Seu trabalho combina consultoria e execução técnica: transformar necessidades operacionais em sistemas de IA aplicáveis, com estrutura, integrações e validação.
 
+## Conteúdos migrados do portfólio anterior
+
+- [Perfil e projetos](archive/perfil-portfolio-migrado.md) — resumo profissional e exemplos de atuação registrados no README anterior.
+- [Auditoria de contribuições no GitHub](archive/contribuicoes-github.md) — levantamento dos 45 repositórios, commits atribuídos, evidências, projetos adicionais e limitações da análise.
+
 ## Transparência e fontes
 
 Os números de consultorias, empresas, sistemas e o escopo individual de atuação foram informados por Felipe. As métricas de resultado dos cases são as publicadas pela Adapta nos links de cada página; são resultados do projeto e não uma atribuição de causalidade individual isolada.
 
-O levantamento de contribuições em repositórios, baseado em histórico público do GitHub, está no [portfólio técnico](https://github.com/fnavaar-ia/fnavaar-ia/blob/main/cases/contribuicoes-github.md). Esse levantamento é separado destes cases de clientes.
+O levantamento de contribuições em repositórios, baseado em histórico público do GitHub, está no [auditoria de contribuições migrada](archive/contribuicoes-github.md). Esse levantamento é separado destes cases de clientes.
